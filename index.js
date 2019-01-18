@@ -1,13 +1,3 @@
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
 var Gpio = require('onoff').Gpio,
     led = new Gpio(17, 'out');
  
